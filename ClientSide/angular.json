@@ -9,12 +9,9 @@
         "@schematics/angular:component": {
           "standalone": false
         },
-
         "options": {
           "outputPath": "dist/Admin/browser"
         },
-
-
         "@schematics/angular:directive": {
           "standalone": false
         },
@@ -59,7 +56,15 @@
                   "maximumError": "8kB"
                 }
               ],
-              "outputHashing": "all"
+              "fileReplacements": [
+                {
+                  "replace": "src/app/environments/environment.ts",
+                  "with": "src/app/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false
             },
             "development": {
               "optimization": false,
