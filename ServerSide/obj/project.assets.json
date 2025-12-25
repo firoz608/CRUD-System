@@ -8987,11 +8987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\CRUD-System\\ServerSide\\CrudApi.csproj",
+      "projectUniqueName": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\New folder\\CRUD-System\\ServerSide\\CrudApi.csproj",
       "projectName": "CrudApi",
-      "projectPath": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\CRUD-System\\ServerSide\\CrudApi.csproj",
+      "projectPath": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\New folder\\CRUD-System\\ServerSide\\CrudApi.csproj",
       "packagesPath": "C:\\Users\\MD FIROZ AHMAD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\CRUD-System\\ServerSide\\obj\\",
+      "outputPath": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\New folder\\CRUD-System\\ServerSide\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

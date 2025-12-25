@@ -32,15 +32,18 @@ options.UseNpgsql(builder.Configuration.GetConnectionString("CrudAppconn")));
 var app = builder.Build();
 
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-app.Urls.Add($"http://*:{port}");
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+
+ //Configure the HTTP request pipeline.
+
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI();
+//}
+
+app.UseSwagger();
+app.UseSwaggerUI();
 
 
 
@@ -55,6 +58,9 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+
+var port = Environment.GetEnvironmentVariable("PORT") ?? "10000";
+app.Urls.Add($"http://0.0.0.0:{port}");
 
 app.Run();
 

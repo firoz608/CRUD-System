@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d378e8dbcfd94d8b3330a7c1c72948047bb7d2b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29a074b165bcb670f6585374d0d496be97ddd01c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
