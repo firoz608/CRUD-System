@@ -58,8 +58,8 @@
               ],
               "fileReplacements": [
                 {
-                  "replace": "src/app/environments/environment.ts",
-                  "with": "src/app/environments/environment.prod.ts"
+                  "replace": "src/environment/environment.ts",
+                  "with": "src/environment/environment.prod.ts"
                 }
               ],
               "optimization": true,
