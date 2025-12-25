@@ -1,0 +1,10 @@
+@CrudApi_HostAddress = https://localhost:7051
+
+GET {{CrudApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{CrudApi_HostAddress}}/api/crud/GetAllLists
+
+###

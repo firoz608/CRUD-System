@@ -1,0 +1,744 @@
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\appsettings.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\CrudApi.staticwebassets.endpoints.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\CrudApi.exe
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\CrudApi.deps.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\CrudApi.runtimeconfig.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\CrudApi.pdb
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.csproj.AssemblyReference.cache
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.AssemblyInfoInputs.cache
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.AssemblyInfo.cs
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.csproj.CoreCompileInputs.cache
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\scopedcss\bundle\CrudApi.styles.css
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.csproj.Up2Date
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\refint\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.pdb
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\CrudApi.genruntimeconfig.cache
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\obj\Debug\net8.0\ref\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD FIROZ AHMAD\source\repos\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\appsettings.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.staticwebassets.endpoints.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.exe
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.deps.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.runtimeconfig.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.pdb
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Azure.Core.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Humanizer.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.CodeDom.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.csproj.AssemblyReference.cache
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.AssemblyInfoInputs.cache
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.AssemblyInfo.cs
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.csproj.CoreCompileInputs.cache
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\scopedcss\bundle\CrudApi.styles.css
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.csproj.Up2Date
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\refint\CrudApi.dll
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.pdb
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.genruntimeconfig.cache
+E:\Project\Client Side {Frontend}\Server Side {Backend}\CrudApi\obj\Debug\net8.0\ref\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\appsettings.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.staticwebassets.endpoints.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.exe
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.deps.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.runtimeconfig.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\CrudApi.pdb
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.csproj.AssemblyReference.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.AssemblyInfoInputs.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.AssemblyInfo.cs
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.csproj.CoreCompileInputs.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.sourcelink.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\scopedcss\bundle\CrudApi.styles.css
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.csproj.Up2Date
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\refint\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.pdb
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\CrudApi.genruntimeconfig.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\obj\Debug\net8.0\ref\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\CrudApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\appsettings.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\CrudApi.staticwebassets.endpoints.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\CrudApi.exe
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\CrudApi.deps.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\CrudApi.runtimeconfig.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\CrudApi.pdb
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Humanizer.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Npgsql.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.csproj.AssemblyReference.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.AssemblyInfoInputs.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.AssemblyInfo.cs
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.csproj.CoreCompileInputs.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.sourcelink.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\scopedcss\bundle\CrudApi.styles.css
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.csproj.Up2Date
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\refint\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.pdb
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\CrudApi.genruntimeconfig.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\Server Side {Backend}\obj\Debug\net8.0\ref\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\appsettings.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\CrudApi.staticwebassets.endpoints.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\CrudApi.exe
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\CrudApi.deps.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\CrudApi.runtimeconfig.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\CrudApi.pdb
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Humanizer.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Npgsql.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.csproj.AssemblyReference.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.AssemblyInfoInputs.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.AssemblyInfo.cs
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.csproj.CoreCompileInputs.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.sourcelink.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\scopedcss\bundle\CrudApi.styles.css
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.csproj.Up2Date
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\refint\CrudApi.dll
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.pdb
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\CrudApi.genruntimeconfig.cache
+C:\Users\MD FIROZ AHMAD\Documents\GitHub\CRUD-System\ServerSide\obj\Debug\net8.0\ref\CrudApi.dll
