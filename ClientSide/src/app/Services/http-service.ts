@@ -6,7 +6,11 @@ import { Item, CreateItemDto, UpdateItemDto } from '../Utility/item.model';
   providedIn: 'root',
 })
 export class HttpService {
-  private apiUrl = 'https://localhost:7051/api/CRUD';
+  // private apiUrl = 'https://localhost:7051/api/CRUD';
+
+      private apiUrl = 'https://crud-system-hq1p.onrender.com/api/CRUD';
+
+  
 
   constructor(private http: HttpClient) {}
 
