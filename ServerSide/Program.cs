@@ -49,7 +49,7 @@ app.UseSwaggerUI();
 
 
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection(); 
 
 // ✅ USE CORS (must be BEFORE authorization)
 app.UseCors("OpenCors");
