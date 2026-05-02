@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+Console.WriteLine("App is starting...");
 
 // Add services to the container.
 
@@ -57,10 +58,6 @@ app.UseCors("OpenCors");
 app.UseAuthorization();
 
 app.MapControllers();
-
-
-var port = Environment.GetEnvironmentVariable("PORT") ?? "10000";
-app.Urls.Add($"http://0.0.0.0:{port}");
 
 app.Run();
 
