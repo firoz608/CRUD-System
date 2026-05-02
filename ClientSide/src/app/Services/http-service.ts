@@ -9,7 +9,8 @@ import { environment } from '../../environment/environment.prod';
 export class HttpService {
   // private apiUrl = 'https://localhost:7051/api/CRUD';
 
-      private apiUrl = 'https://crud-system-hq1p.onrender.com/api/CRUD';
+      private apiUrl = 'https://crud-system-8rnz.onrender.com/api/CRUD';
+      
 
   
 

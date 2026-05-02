@@ -1,7 +1,7 @@
 <div class="card">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+      <div class="card-header">
         <h2>Items</h2>
-        <a routerLink="/create" class="btn btn-primary">+ Add New Item</a>
+        <a routerLink="/create" class="addbtn btn-primary">+ Add New Item</a>
       </div>
 
       <div *ngIf="message" [class]="'alert ' + (isError ? 'alert-error' : 'alert-success')">
@@ -31,12 +31,11 @@
             <td>{{ item.id }}</td>
             <td>{{ item.name }}</td>
             <td>{{ item.description }}</td>
-            <td>{{ item.price | currency }}</td>
+            <td>{{ item.price | currency :'INR' }}</td>
             <td>{{ item.quantity }}</td>
             <td class="actions">
-              <!-- <a [routerLink]="['/edit', item.id]" class="btn btn-secondary">Edit</a> -->
-               <button (click)="edit(item.id)" class="btn btn-secondary">Edit</button>
-
+               <button (click)="edit(item.id)" class="btn btn-secondary">Edit</button> 
+               <br>
               <button class="btn btn-danger" (click)="deleteItem(item.id)">Delete</button>
             </td>
           </tr>
