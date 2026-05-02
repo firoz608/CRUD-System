@@ -35,13 +35,13 @@ var app = builder.Build();
 
 
 
- //Configure the HTTP request pipeline.
+//Configure the HTTP request pipeline.
 
-//if (app.Environment.IsDevelopment())
-//{
-//    app.UseSwagger();
-//    app.UseSwaggerUI();
-//}
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 app.UseSwagger();
 app.UseSwaggerUI();
@@ -58,6 +58,9 @@ app.UseCors("OpenCors");
 app.UseAuthorization();
 
 app.MapControllers();
+
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+app.Urls.Add($"http://0.0.0.0:{port}");
 
 app.Run();
 
