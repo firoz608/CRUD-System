@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B6AE56BD-A850-4D3E-AE36-5453913C518D}|CrudApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B6AE56BD-A850-4D3E-AE36-5453913C518D}|CrudApi.csproj|c:\\users\\md firoz ahmad\\documents\\github\\new folder\\crud-system\\serverside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AE56BD-A850-4D3E-AE36-5453913C518D}|CrudApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6AE56BD-A850-4D3E-AE36-5453913C518D}|CrudApi.csproj|c:\\users\\md firoz ahmad\\documents\\github\\new folder\\crud-system\\serverside\\crudapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{B6AE56BD-A850-4D3E-AE36-5453913C518D}|CrudApi.csproj|solutionrelative:crudapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
@@ -18,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\New folder\\CRUD-System\\ServerSide\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\New folder\\CRUD-System\\ServerSide\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T11:51:45.548Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -35,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CrudApi.http",
               "DocumentMoniker": "C:\\Users\\MD FIROZ AHMAD\\Documents\\GitHub\\New folder\\CRUD-System\\ServerSide\\CrudApi.http",
               "RelativeDocumentMoniker": "CrudApi.http",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "CrudApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-05-02T11:45:01.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T11:45:01.95Z"
             }
           ]
         }
